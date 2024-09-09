@@ -1,6 +1,1 @@
-check_updates_powershell for Golden Tool 
-
-<!---
-Thedev200k/Thedev200k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello welomce to the golden tool and this tool helps you download apps and more like chrome and file and more apps that remcomed for windwos users
