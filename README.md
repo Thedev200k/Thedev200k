@@ -1,4 +1,11 @@
- Hello welomce to the golden tool and this tool helps you download apps and more like chrome and file and more apps that remcomed for windwos users it wil say golden.exe Failed - Virus detected  beasuces it it gose to website that downloads the files for the apps 
- and it that why wil think it is a golden.exe Failed - Virus detected it is not a Virus it safe it saying that beasuces is from github it is safe thank you
- it wil think is a pua:win32/caypamer.alml but is safe make sure tun of windows virus and & theat protection then tun it back when done thank you.
- 
+Welcome to the Golden Tool!
+
+The Golden Tool is designed to help you easily download and manage apps, including popular ones like Chrome and other useful applications for Windows users.
+
+Please note: You might encounter a warning saying "golden.exe Failed - Virus Detected" or "PUA
+/Caypamer.ALM1." This occurs because the tool downloads files from the internet and may be flagged by some antivirus programs due to its nature of accessing external websites.
+
+Rest assured, this is a false positive. The Golden Tool is completely safe and does not contain any malware. If you receive a warning, please temporarily disable your antivirus or Windows Defender while using the tool, then re-enable it once you're done.
+
+Thank you for using the Golden Tool!
+
