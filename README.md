@@ -1,7 +1,6 @@
 Welcome to the Golden Tool!
 
-The Golden Tool is designed to help you easily download and manage apps, including popular ones like Chrome and other useful applications for Windows users.
-Also this can allow windows Pro Key to get windows activation that is the 2nd script but has to be run the frist script to. 
+The Golden Tool is designed to help you can allow windows Pro Key to get windows activation that is the 2nd script but has to be run the frist script to. 
 Please note: You might encounter a warning saying "golden.exe Failed - Virus Detected" or "PUA
 /Caypamer.ALM1." This occurs because the tool downloads files from the internet and may be flagged by some antivirus programs due to its nature of accessing external websites.
 
