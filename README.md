@@ -1,5 +1,14 @@
-Welcome to the Golden Tool!
+Welcome To IsabelOS V1 Linux Base on debian When you install and run neofetch it comes up To IsabelOS.
+I made This base Linux Frist time making a LiunxOS I made for my Gilfrined IS Why My Linux OS Name Is IsabeOS.
+Code Name Crazy.
 
-The Golden Tool is designed to help you can allow windows Pro Key to get windows activation that is the 2nd script but has to be run the frist script to. Please note: You might encounter a warning saying "golden.exe Failed - Virus Detected" or "PUA /Caypamer.ALM1.and a rat but is all flase" This occurs because the tool downloads files from the internet and may be flagged by some antivirus programs due to its nature of accessing external websites.
+Base on Linux Debian only works on x64_84 pcs at this time.
 
-Rest assured, this is a false positive. The Golden Tool is completely safe and does not contain any malware. If you receive a warning, please temporarily disable your antivirus or Windows Defender while using the tool, then re-enable it once you're done. But then frist to run Golden.exe has Adima Then run the tool Thank you for using the Golden Tool!
+IsabelOS is in testing and new auto apps isntall in Live mode whats in auto install on frist boot.
+
+Neofetch
+Firefox 
+Tor
+Snap
+
+Also This LinuxOS Is lagyying and so is nrmoal For a New OS or a Remake to not be good this linuxOS Is from scrips and code from debian to make IsabelOS Work Grub is use to boot.
